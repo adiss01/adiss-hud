@@ -1,7 +1,7 @@
 # adiss-hud
 
 ### İletişim
-Discord: ^adişş 🔥#5555
+Discord: adişş#5555
 
 
 ### Gerekliler
